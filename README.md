@@ -128,6 +128,6 @@ Hence using one of them I was able to retrive the flag :
 
 
 
-**Flag 5 : _pclub{d0_y0u_kn0w_7h47_h0w_much_1_5truggl3d_w1th_0p3n55l_wtf_rockyou}_*
+**Flag 5 : _pclub{d0_y0u_kn0w_7h47_h0w_much_1_5truggl3d_w1th_0p3n55l_wtf_rockyou}_**
 
 ---------------------------------------------------------------------------------------------
